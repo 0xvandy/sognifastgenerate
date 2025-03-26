@@ -1,1 +1,3 @@
 # sognifastgenerate
+
+cari apa bang?
